@@ -4,4 +4,3 @@
 
 <img width="1468" alt="Screenshot 2023-08-04 at 8 39 46 AM" src="https://github.com/imadksiddiqui/Ai-Art-App/assets/79279316/5dfd7a0b-6091-46c8-af62-b9faaae1fcd7">
 <img width="1469" alt="Screenshot 2023-08-04 at 8 40 26 AM" src="https://github.com/imadksiddiqui/Ai-Art-App/assets/79279316/e8a6d1dc-e77f-41cb-b3e3-0b57f827da91">
-<img width="238" alt="Screenshot 2023-08-04 at 8 40 42 AM" src="https://github.com/imadksiddiqui/Ai-Art-App/assets/79279316/73d7cd34-cac8-4bbf-b271-0d510953d4f1">
